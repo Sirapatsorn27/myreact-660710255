@@ -9,7 +9,7 @@ const TodoList = () => {
         { id: 4, text: 'สร้างโปรเจคจริง', completed: false },
         { id: 5, text: 'ซื้อของตุน', completed: true },
         { id: 6, text: 'นัดหาหมอ', completed: true },
-        { id: 7, text: 'ทำ assignment', completed: true }
+        { id: 7, text: 'ทำ assignment ', completed: true }
     ];
     
     // คำนวณสถิติ
