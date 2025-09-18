@@ -88,7 +88,7 @@ function JSXExamples() {
                     {user.hobbies.map((hobby, index) => (
                         <li key={index}>
                             {index + 1}. {hobby}
-                        </li>
+                        </li>                                          
                     ))}
                 </ul>
 
